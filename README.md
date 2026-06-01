@@ -5,7 +5,7 @@ Sistem Informasi Geografis (SIG) berbasis **PHP Native + Leaflet.js + PostgreSQL
 
 ---
 
-## Struktur File cek_foto.php            
+## Struktur File             
 
 ```
 gis_project2/
